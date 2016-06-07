@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: f4b243c466a7f3745b4fe3c48d8fe6a5
+timeCreated: 1462173796
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlastNormal_0
+    21300002: BlastNormal_1
+    21300004: BlastNormal_2
+    21300006: BlastNormal_3
+    21300008: BlastNormal_4
+    21300010: BlastNormal_5
+    21300012: BlastNormal_6
+    21300014: BlastNormal_7
+    21300016: BlastNormal_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BlastNormal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 32
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlastNormal_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlastNormal_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 14
+        height: 32
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlastNormal_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlastNormal_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlastNormal_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.56, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlastNormal_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlastNormal_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlastNormal_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
